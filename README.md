@@ -9,13 +9,29 @@
 
 ---
 
-## 💫 Hakkımda
+## 🧠 Hakkımda
 
-🎯 **Amacım:** Akıllı sistemlerle gerçek dünyadaki sorunlara yenilikçi çözümler üretmek.  
-💡 **Uzmanlık Alanlarım:** Yapay zeka, veri analizi, web uygulamaları, API entegrasyonu.  
-🌱 **Şu anda öğreniyorum:** FastAPI, MLOps, Next.js, Prompt Engineering.  
-📚 **Yaklaşımım:** Temiz kod, sürekli öğrenme ve üretkenlik.  
-🧩 **Değerim:** Kod kalitesi = Geliştiricinin imzası.
+Merhaba, ben **Mustafa Nixe** 👋  
+Kendimi sürekli geliştiren, yeni teknolojileri keşfetmeyi seven bir yazılım geliştiricisiyim.  
+Kod yazmak benim için sadece bir iş değil, aynı zamanda bir tutku ve yaratıcılık biçimi.  
+
+🎯 **Odak Noktalarım:**  
+- Modern web uygulamaları ve etkileşimli arayüzler geliştirmek  
+- Yapay zeka ve makine öğrenmesiyle veriden anlam çıkaran sistemler oluşturmak  
+- Karmaşık problemleri basit, sürdürülebilir çözümlerle çözmek  
+
+💡 **Şu anda ilgilendiğim teknolojiler:**  
+- **Backend:** FastAPI, Node.js, Flask  
+- **Frontend:** React, Next.js, TailwindCSS  
+- **AI & Data:** TensorFlow, scikit-learn, Pandas, NumPy  
+
+🚀 **Vizyonum:**  
+Küçük fikirleri büyük ürünlere dönüştürmek.  
+Her projemde, yazılımın sadece koddan ibaret olmadığını — aynı zamanda düşünce, tasarım ve kullanıcı deneyimi olduğunu hatırlatmak.  
+
+📚 **Kendimle ilgili:**  
+Zamanımın büyük kısmını yeni teknolojileri öğrenmeye, açık kaynak projelerine katkıda bulunmaya  
+ve üretken bir geliştirici topluluğu içinde paylaşım yapmaya ayırıyorum.  
 
 ---
 
@@ -73,20 +89,6 @@
   <a href="https://www.instagram.com/mustafanixe/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="45"/></a>
 </div>
 
----
 
-## 🐍 Katkı Aktivitesi
-
-<div align="center">
-  <img src="https://github.com/MustafaNixe/MustafaNixe/blob/output/github-contribution-grid-snake.svg" alt="snake gif">
-</div>
-
----
-
-## 🧩 Geliştirici Felsefem
-> 💬 *“Bir kod satırı, bir fikrin hayat bulmuş halidir.”*  
-> 🔁 *Sürekli öğren, üret, paylaş.*
-
----
 
 <p align="center">✨ Her gün bir satır kod, geleceğe bir yatırım ✨</p>
