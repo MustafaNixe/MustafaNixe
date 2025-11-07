@@ -68,26 +68,8 @@ ve üretken bir geliştirici topluluğu içinde paylaşım yapmaya ayırıyorum.
 
 </div>
 
----
 
-## 🚀 Öne Çıkan Projeler
 
-| 🔹 Proje | 🧠 Açıklama | 🧰 Teknolojiler |
-|-----------|-------------|----------------|
-| [FastFood Classifier](https://github.com/MustafaNixe/fastfood-classifier) | Besin değerleriyle fast food markası tahmin eden ML modeli | Python, scikit-learn, Pandas |
-| [Crypto Dashboard](https://github.com/MustafaNixe/crypto-dashboard) | Binance API ile gerçek zamanlı kripto takip paneli | React, WebSocket, Node.js |
-| [AI ChatBot](https://github.com/MustafaNixe/ai-chatbot) | OpenAI API tabanlı akıllı sohbet sistemi | Python, Flask, HTML, JS |
-
----
-
-## 🌍 Sosyal Bağlantılarım
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/mustafanixe/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>
-  <a href="mailto:mustafanixe@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="45"/></a>
-  <a href="https://github.com/MustafaNixe" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="45"/></a>
-  <a href="https://www.instagram.com/mustafanixe/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="45"/></a>
-</div>
 
 
 
