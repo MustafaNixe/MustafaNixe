@@ -1,7 +1,7 @@
 <!-- 💼 MustafaNixe | Professional GitHub Profile -->
 <!-- Tam profesyonel, dinamik ve ikon destekli profil tasarımı -->
 
-<h1 align="center">👋 Merhaba, ben <span style="color:#58a6ff;">Mustafa Nixe</span></h1>
+<h1 align="center">👋 Merhaba, ben <span style="color:#58a6ff;">Mustafa </span></h1>
 
 <p align="center">
   💻 Yapay Zeka & Web Geliştirici | 🚀 Teknoloji Tutkunu | 🌍 Türkiye
